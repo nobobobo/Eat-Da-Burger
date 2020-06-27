@@ -1,4 +1,6 @@
-INSERT INTO burgers_db.burgers (burger_name, devoured) 
+USE burgers_db;
+
+INSERT INTO burgers (burger_name, devoured) 
 VALUES
 ("Double Cheese Burger",1),
 ("Veggie Burger",0),
