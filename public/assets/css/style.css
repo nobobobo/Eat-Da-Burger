@@ -28,6 +28,11 @@ li {
     margin-bottom: 5px;
 }
 
+input{
+    width: 200px;
+    height:100px;
+}
+
 img {
     width: 250px;
 }
